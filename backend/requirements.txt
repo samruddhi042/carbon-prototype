@@ -1,0 +1,7 @@
+Flask
+Flask-Cors
+SQLAlchemy
+Flask>=2.1
+Flask-Cors>=3.0
+Flask-SQLAlchemy>=3.0
+SQLAlchemy>=2.0
